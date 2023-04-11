@@ -43,3 +43,31 @@ This site was built by [GitHub Pages](https://pages.github.com/).
   <source media="(prefer-color-scheme: dark)" srcset="(https://i.ebayimg.com/images/g/eqgAAOSwLYBfono5/s-l500.png)">
   <source media="(prefer-color-scheme: light)" srcset="(/sunflower.jpeg)">
 </picture>
+
+## Unordered lists
+* Miley Cyrus
++ Camila Cabello
+- Selena Gomez
+
+## Ordered Lists
+1. Tsunisaburu Mackaguchi
+2. Josei Toda
+3. Daisaku Ikeda
+
+* First list item
+  * Nested list item
+    * Second nested list item
+
+- [x] Complete the MarkDown exercises
+
+@BlackWidow2030 :+1: Well done you!
+
+Here is a footnote[^1].
+
+Here is another footnote[^2].
+
+[^1]: This is a footnote.
+[^2]: This is a second footnote.  
+  With a second line with a line break.
+  
+<!-- This is how you hide comments in the content -->
