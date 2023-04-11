@@ -36,3 +36,5 @@ This site was built by [GitHub Pages](https://pages.github.com/).
 [Other GitHub practice sessions](/BlackWidow2030/git_practice)
 
 ![Buddha in a lotus flower stencil.](https://i.ebayimg.com/images/g/eqgAAOSwLYBfono5/s-l500.png)
+
+![A sunset](/git_practice3)
