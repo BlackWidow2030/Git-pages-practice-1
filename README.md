@@ -30,3 +30,5 @@ git add
 git commit 
 
 ```
+
+This site was built by [GitHub Pages](https://pages.github.com/).
