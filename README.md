@@ -37,4 +37,9 @@ This site was built by [GitHub Pages](https://pages.github.com/).
 
 ![Buddha in a lotus flower stencil.](https://i.ebayimg.com/images/g/eqgAAOSwLYBfono5/s-l500.png)
 
-![A sunset](/git_practice3)
+![A sunflower.](/sunflower.jpeg)
+
+<picture>
+  <source media="(prefer-color-scheme: dark)" srcset="(https://i.ebayimg.com/images/g/eqgAAOSwLYBfono5/s-l500.png)">
+  <source media="(prefer-color-scheme: light)" srcset="(/sunflower.jpeg)">
+</picture>
