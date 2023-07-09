@@ -1,0 +1,160 @@
+* { 
+   box-sizing: border-box;
+   font-family: 'Ysabeau Office', sans-serif;
+   
+   margin: 0;
+}
+
+header {
+    background-color: rgb(165, 92, 8);
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+}
+
+nav li {
+    display: inline-block;
+    font-size: 30px;
+    padding: 20px;
+    
+}
+
+a {
+    color: cornsilk;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+main {
+    position: relative;
+    top: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+main h1 {
+    font-family: "Ysabeau Office";
+    font-size: 60px;
+    font-weight: 500;
+    text-align: center;
+    padding-bottom: 20px;
+    
+    
+}
+
+
+section.intro img {
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    
+    
+} 
+
+p {
+    padding: 20px;
+    font-size: 25px;
+    font-weight: 100;
+       
+}
+
+h2 {
+    font-size: 40px;
+    padding-top: 40px;
+    margin: 30px;
+    
+}
+
+section article {
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+}
+
+
+
+.center {
+    text-align: center;
+    width: 700px;
+    display: inline-block;
+}
+
+#biography p {
+    border: 2px solid black;
+    margin: 0;
+}
+
+blockquote{
+    font-size: 20px;
+    color: black;
+    font-weight: 500;
+
+}
+
+blockquote.padding {
+    padding-bottom: 20px;
+    
+    
+}
+
+
+.background {    
+    background-image: url("../images/cherry\ blossom.jpeg");
+    background-size: cover ;
+    height: 450px;
+    opacity: 0.9;
+    z-index: 0;
+    
+}
+
+#text {
+    background-color: rgba(255, 255, 255, 0.7) ;
+    padding: 10px;
+}
+
+footer  h2{
+    font-size: 30px;
+    display: inline;
+    padding-bottom: 20px;
+  
+}
+
+footer h4 {
+    font-size: 15px;
+    display: inline;
+    padding-bottom: 20px;
+    
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    margin-top: 10px 0, 0, 0;
+    height: 90px;
+    color:bisque;
+    background-color: black;
+}
+
+section.aside figure {
+    margin: 0 auto;
+    padding-top: 50px;
+    width: 400px;
+    text-align: center;
+}
+
+section.aside {
+    height: 375px;
+    z-index: 11;
+   
+}
+
+img[src*="Ikeda"] {
+    border: 3px solid black;
+}
+
+
